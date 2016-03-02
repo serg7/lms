@@ -1,0 +1,3 @@
+lms_profile_homepage:
+    path:     /
+    defaults: { _controller: LMSProfileBundle:Default:index }

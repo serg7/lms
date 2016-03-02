@@ -1,0 +1,7 @@
+lms_profile:
+    resource: "@LMSProfileBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

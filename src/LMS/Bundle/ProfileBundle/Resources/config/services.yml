@@ -1,0 +1,4 @@
+services:
+#    lms_profile.example:
+#        class: LMS\Bundle\ProfileBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]
